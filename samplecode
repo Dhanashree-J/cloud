@@ -19,6 +19,7 @@
                 <th>heading3</th>
                 <th>heading4</th>
                 <th>heading5</th>
+		<th>heading6</th>
             </tr>
             <tr>
                 <th rowspan="2">Sample</th>
@@ -26,12 +27,14 @@
                 <td>Sample</td>
                 <td>Sample</td>
                 <td>Sample</td>
+		<td>Sample</td>
             </tr>
             <tr>
                 <td>Sample</td>
                 <td>Sample</td>
                 <td>Sample</td>
                 <td>Sample</td>
+		<td>Sample</td>
             </tr>
             <tr>
                 <td>Sample</td>
